@@ -5,6 +5,7 @@ body {
     height: 500px;
 }
 .pagetitle {
-    font-size: large ;
+    font-size: 45px ;
+    text-align: center;
     font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
 }
