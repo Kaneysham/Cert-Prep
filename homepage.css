@@ -3,6 +3,13 @@ body {
     /*background-size: 1000px;
     width: 1000px;
     height: 1000px;*/
+      /* Full height */
+  height: 100%;
+
+  /* Center and scale the image nicely */
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
 }
 .pagetitle {
     font-size: 50px;
